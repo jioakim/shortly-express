@@ -1,9 +1,12 @@
 node_modules
 db/*.sqlite
 *.DS_Store
-
+*.exe
 # Floobits
 .floo
 .floobit
 .floo
 .flooignore
+app/collections/userLinks.js
+app/models/userLink.js
+test/myTest.js
